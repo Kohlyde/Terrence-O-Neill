@@ -18,13 +18,15 @@
 
 For more information, please visit [Burman University's directory](https://www.burmanu.ca/directory/terry-oneill).
 
----
 
-*This profile is part of our ongoing commitment to transparency and open communication within the Burman University community.*
-
----
 
 #### Contact
 For any inquiries, please reach out via email at [toneill@burmanu.ca](mailto:toneill@burmanu.ca).
 
 *Profile created and maintained by <span style="font-family: 'Mrs St Delafield', cursive;">Jason Alexander Chase</span>.*
+
+---
+
+*This profile is part of our ongoing commitment to transparency and open communication within the Burman University community.*
+
+---
