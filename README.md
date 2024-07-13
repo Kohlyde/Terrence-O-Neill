@@ -1,4 +1,4 @@
-# Faculty & Staff Profile
+# Terrence O'Neill discovery sheet
 
 ## Terry O'Neill
 
