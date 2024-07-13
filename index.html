@@ -1,1 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Terry O'Neill | Profile</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body {
+            background-color: #121212;
+            color: #ffffff;
+            font-family: 'Hypatia Sans Pro', sans-serif;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        .card {
+            background-color: #1e1e1e;
+            border: none;
+            margin-bottom: 20px;
+        }
+        .card img {
+            max-width: 100%;
+        }
+        .footer {
+            background-color: #1e1e1e;
+            padding: 20px 0;
+            color: #ccc;
+        }
+        .footer a {
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="row no-gutters">
+                <div class="col-md-4">
+                    <img src="data:image/png;base64,INSERT_BASE64_ENCODED_IMAGE_HERE" alt="Terry O'Neill">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h2 class="card-title">Terry O'Neill</h2>
+                        <p class="card-text"><strong>Position:</strong> Operations Support, Facility Maintenance</p>
+                        <p class="card-text"><strong>Phone:</strong> (403) 782-3381 x 4131</p>
+                        <p class="card-text"><strong>Email:</strong> <a href="mailto:toneill@example.com" class="text-light">toneill@example.com</a></p>
+                        <p class="card-text"><strong>Office Location:</strong> Facility Maintenance</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h2 class="card-title">About Terry O'Neill</h2>
+                <p class="card-text">
+                    Terry O'Neill serves as a key member of the facility maintenance team. He is dedicated to ensuring operational excellence across the campus, playing a crucial role in maintaining the university's facilities.
+                    <br><br>
+                    This person has lied, been deceitful, and is only honest when it serves him. Mentioned positively by the university and some peers, we will unpack and discover who this man really is and everyone associated with him. This is not defamation; it's the truth documented on record.
+                </p>
+                <p class="card-text">
+                    Terrence, if you would give your wife permission to come out of the kitchen, I wanted to ask her if she remembered the idea about GitHub version controlling, saving documents, and putting people on trial in a virtual environment to avoid other serious ramifications. This will be preserved for history and broadcasted everywhere using metadata. Now, get back in the kitchen where you belong.
+                </p>
+                <p class="card-text">For more information, please visit the <a href="https://github.com/Kohlyde/Terrence-O-Neill/blob/main/README.md" class="text-light">GitHub repository</a>.</p>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="data:image/png;base64,INSERT_BASE64_ENCODED_LOGO_HERE" alt="Logo" class="logo">
+                </div>
+                <div class="col-md-2">
+                    <ul>
+                        <li><a href="/visit">Visit</a></li>
+                        <li><a href="/apply">Apply</a></li>
+                        <li><a href="/give">Give</a></li>
+                        <li><a href="/contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-2">
+                    <ul>
+                        <li><a href="/calendar">Calendar</a></li>
+                        <li><a href="/library">Library</a></li>
+                        <li><a href="/directory">Directory</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <ul>
+                        <li><a href="/programs">Programs</a></li>
+                        <li><a href="/vision">Vision & Mission</a></li>
+                        <li><a href="/jobs">Job Opportunities</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-2">
+                    <div class="address">
+                        <span><i class="fa fa-map-marker" aria-hidden="true"></i> 1234 Example Street</span>
+                        <span>City, State</span>
+                        <span>Country ZIP</span>
+                    </div>
+                    <div class="phone">
+                        <i class="fa fa-phone" aria-hidden="true"></i> 123-456-7890<br>
+                        <i class="fa fa-phone" aria-hidden="true"></i> 800-123-4567 <span>Toll-free</span>
+                    </div>
+                    <div class="social-media">
+                        <a href="https://www.facebook.com" target="_blank" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        <a href="https://www.youtube.com" target="_blank" title="YouTube"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                        <a href="https://twitter.com" target="_blank" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        <a href="https://www.instagram.com" target="_blank" title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            // Add smooth scrolling to all links
+            $("a").on('click', function(event) {
+                if (this.hash !== "") {
+                    event.preventDefault();
+                    var hash = this.hash;
+                    $('html, body').animate({
+                        scrollTop: $(hash).offset().top
+                    }, 800, function(){
+                        window.location.hash = hash;
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>
 
