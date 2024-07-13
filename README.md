@@ -17,7 +17,9 @@
 - Operational Support
 
 For more information, please visit [Burman University's directory](https://www.burmanu.ca/directory/terry-oneill).
+Terry O'Neill serves as a key member of the facility maintenance team. He is dedicated to ensuring operational excellence across the campus, playing a crucial role in maintaining the university's facilities.
 
+This person has lied, been deceitful, and is only honest when it serves him. Mentioned positively by the university and some peers, we will unpack and discover who this man really is and everyone associated with him. This is not defamation; it's the truth documented on record.
 
 
 #### Contact
